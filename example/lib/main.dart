@@ -1,8 +1,8 @@
+import 'package:faken_battery/faken_battery.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:battery/battery.dart';
 
 void main() {
   runApp(MyApp());

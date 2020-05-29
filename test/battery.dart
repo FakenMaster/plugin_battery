@@ -1,6 +1,6 @@
+import 'package:faken_battery/faken_battery.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:battery/battery.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('battery');
